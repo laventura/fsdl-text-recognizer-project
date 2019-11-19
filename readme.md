@@ -30,3 +30,5 @@ Project developed during lab sessions of the [Full Stack Deep Learning Bootcamp]
 - Fourth session (75 min)
   - [Lab 7](lab7.md) (15 min) Add continuous integration that runs linting and tests on our codebase.
   - [Lab 8](lab8.md) (60 min) Deploy the trained model to the web using AWS Lambda.
+
+### Done
